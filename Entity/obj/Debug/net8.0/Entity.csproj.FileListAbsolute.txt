@@ -1,0 +1,33 @@
+C:\Users\Alonso\source\repos\Parcial_1\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Alonso\source\repos\Parcial_1\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Alonso\source\repos\Parcial_1\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\source\repos\Parcial_1\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Alonso\Desktop\UAI\2do Año\MATERIAS - 2DO CUATRI\LUG\Unidad 5 - Patron Mapper y Relaciones entre objetos\TP_Asistencia_MAPPER\Parcial_1_Refactor\Entity\obj\Debug\net8.0\ref\Entity.dll
